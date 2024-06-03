@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    border: solid green;
+
+}
+
+section{
+    padding: 25px;
+}
+.container{
+    width: 1000px;
+    border: solid red;
+}
+
+.baner{
+    background-image: url(../img/image-hero.jpg);
+    height: 500px;
+    color: #fff;
+    background-size: center;
+    background-origin:content-box;
+    
+}
+
+.baner h1{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 100px;
+    font-family: 'Yu Gothic';
+}
+
+.baner div{
+    padding: 15px;
+    font-size: 40px;
+    width: 400px;
+    height: 150px;
+    border: 1px solid white;
+    margin-top: 120px;
+    margin-left: 100px;
+    font-family: 'Yu Gothic Light';
+    line-height: 40px;
+    
+}
