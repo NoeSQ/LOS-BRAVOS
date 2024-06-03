@@ -48,3 +48,14 @@ section{
     line-height: 40px;
     
 }
+
+.leader{
+    height: 200px;
+    border: solid blue;
+}
+
+
+.our-creations{
+    height: 300px;
+    border: solid yellow;
+}
